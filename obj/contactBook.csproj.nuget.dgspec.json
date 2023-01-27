@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\source\\apiProjects\\contactBook\\contactBook.csproj": {}
+    "C:\\Users\\Decagon\\Source\\Repos\\ContactBookAPI\\contactBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\source\\apiProjects\\contactBook\\contactBook.csproj": {
+    "C:\\Users\\Decagon\\Source\\Repos\\ContactBookAPI\\contactBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\source\\apiProjects\\contactBook\\contactBook.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Source\\Repos\\ContactBookAPI\\contactBook.csproj",
         "projectName": "contactBook",
-        "projectPath": "C:\\Users\\Decagon\\source\\apiProjects\\contactBook\\contactBook.csproj",
+        "projectPath": "C:\\Users\\Decagon\\Source\\Repos\\ContactBookAPI\\contactBook.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\source\\apiProjects\\contactBook\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\Source\\Repos\\ContactBookAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMy8cguZ5tI+is6zlDrVYMCfJ4xyaIGWo/I6QtRxSzx6hC/ei3CwyktvgKZtMj1lszPl72L7+appmzD7Iopu8A==",
+  "dgSpecHash": "ekwp6Gw1D/WZE07wPyahO+IZzdDi3bRX5tmuVIDshx0UOrESOyW2xJbU3Fse9+0fhQ/vGustx5XZQe87+OqJ5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\source\\apiProjects\\contactBook\\contactBook.csproj",
+  "projectFilePath": "C:\\Users\\Decagon\\Source\\Repos\\ContactBookAPI\\contactBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Decagon\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
